@@ -2,5 +2,5 @@
 ! Description: Bruh
 ! Homepage: https://github.com/Niewyspany17/desu-online-anime-girl-background-remover
 
-! desu-online.pl
-||desu-online.pl/wp-content/uploads/2021/12/1639962924281.webp
+! https://desu-online.pl
+||desu-online.pl/wp-content/uploads/2021/12/1639962924281.webp$image
