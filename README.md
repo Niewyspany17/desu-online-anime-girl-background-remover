@@ -4,4 +4,4 @@ the most useless thing I've ever done
 ## Installation
 
 * Open uBO's dashboard and go to "Filter lists" tab
-* Click the Import checkbox in the Custom section and paste the URL below:
+* Click the Import checkbox in the Custom section and paste the URL below:<br> 
